@@ -32,4 +32,6 @@ if (email_found){
 let pc_num = Math.floor(Math.random()*6);
 alert(`Il numero assegnato al PC e' ${pc_num}`)
 //Generare u numero da 1 a 6 per il giocatore
+let player_num = Math.floor(Math.random()*6);
+alert(`Il numero assegnato al giocatore e' ${player_num}`)
 //Verificare il vincitore

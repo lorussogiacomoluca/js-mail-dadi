@@ -26,3 +26,8 @@ if (email_found){
 }else{
     alert('Indirizzo mail non trovato');
 }
+
+//Esercizio DADI
+//Generare un numero da 1 a 6 per il PC
+//Generare u numero da 1 a 6 per il giocatore
+//Verificare il vincitore

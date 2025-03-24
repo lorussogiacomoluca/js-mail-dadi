@@ -29,5 +29,7 @@ if (email_found){
 
 //Esercizio DADI
 //Generare un numero da 1 a 6 per il PC
+let pc_num = Math.floor(Math.random()*6);
+alert(`Il numero assegnato al PC e' ${pc_num}`)
 //Generare u numero da 1 a 6 per il giocatore
 //Verificare il vincitore
